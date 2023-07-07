@@ -1,1 +1,0 @@
-{"id":"velocityservermonitor","name":"VelocityServerMonitor","version":"1.0","description":"Server monitor for CrashTheServer","url":"https://blockhost.net","authors":["qbasty"],"dependencies":[],"main":"net.blockhost.velocityservermonitor.VelocityServerMonitor"}
